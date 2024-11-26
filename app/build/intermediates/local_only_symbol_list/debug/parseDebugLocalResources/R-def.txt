@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_broken_image
+drawable ic_connection_error
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_not_found
+drawable loading_img
+mipmap ic_launcher
+mipmap ic_launcher_round
+string NoFavoriteBooksText
+string app_name
+string back_arrow_content_descr
+string book_authors
+string book_details
+string book_price
+string book_publishedDate
+string book_subtitle
+string book_title
+string btn_favorite
+string btn_search
+string btn_try_again
+string failed_to_load_msg
+string loading_image_content_descr
+string no_records_found_msg
+string search_placeholder
+style Theme.BookShelfRemake
+xml backup_rules
+xml data_extraction_rules
